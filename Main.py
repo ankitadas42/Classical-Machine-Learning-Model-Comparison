@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score
 
 
 data=load_iris()
-X=data.data #output data
+X=data.data #input data
 Y=data.target  #output data
 
 
